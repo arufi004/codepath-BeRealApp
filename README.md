@@ -30,9 +30,26 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://github.com/arufi004/codepath-BeRealApp/assets/114187227/b77536ff-7710-4ef0-a819-17aab9fc83e4
+
+
+
+https://github.com/arufi004/codepath-BeRealApp/assets/114187227/f38da080-ee7d-4771-8ed7-4b5a10249140
+
+
+
+
+https://github.com/arufi004/codepath-BeRealApp/assets/114187227/95e33a30-e28a-45a8-9c25-bd6bb4d16279
+
+
+
+https://github.com/arufi004/codepath-BeRealApp/assets/114187227/40b61748-4aca-48cb-9043-04d3c32df9ea
+
+
+
+https://github.com/arufi004/codepath-BeRealApp/assets/114187227/f260d541-730b-45e4-acf3-42d927617005
+
 
 ## Notes
 
