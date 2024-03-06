@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C642653B-B7A2-4D7D-9520-7D2A4B2FDB77"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B3F200B-50E4-49B1-A47B-59E0355643F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BeRealApp/Feed/PostCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "PostCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7B3F200B-50E4-49B1-A47B-59E0355643F3 - a13501758012bbef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BeRealApp.PostCell.postImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "BeRealApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arufi/Documents/BeRealApp/BeRealApp/Feed/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "7B3F200B-50E4-49B1-A47B-59E0355643F3 - f1e2b743838d47db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BeRealApp.PostCell.postImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "BeRealApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arufi/Documents/BeRealApp/BeRealApp/Feed/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "7B3F200B-50E4-49B1-A47B-59E0355643F3 - b5dea120b01113a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BeRealApp.PostCell.postImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "BeRealApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arufi/Documents/BeRealApp/BeRealApp/Feed/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7B3F200B-50E4-49B1-A47B-59E0355643F3 - c516468082e1dec8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BeRealApp.PostCell.postImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BeRealApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arufi/Documents/BeRealApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7B3F200B-50E4-49B1-A47B-59E0355643F3 - 431735a0c681aea5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BeRealApp.PostCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; BeRealApp.PostCell"
+                  moduleName = "BeRealApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arufi/Documents/BeRealApp/BeRealApp/Feed/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "7B3F200B-50E4-49B1-A47B-59E0355643F3 - ee93ce4c9a3e66f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BeRealApp.PostCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BeRealApp.PostCell&gt;"
+                  moduleName = "BeRealApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arufi/Documents/BeRealApp/BeRealApp/Feed/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
