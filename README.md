@@ -1,8 +1,8 @@
-# Project 5 - *BeRealApp*
+# Project 6 - *Be Real App Pt. 2*
 
 Submitted by: **Anthony Rufin**
 
-**BeRealApp** is an app that attempts to emulate the functionality of social media platforms such as BeReal. The user is able to create an account and submit photos to show onto a feed that other users can see. 
+**BeRealApp** is an app that attempts to emulate the functionality of social media platforms such as BeReal. The user is able to create an account and submit photos to show onto a feed that other users can see. The user can now use the camera to take photos and upload them onto the app, along with the ability to logout, maintain a persistent session even after the app closes, and blurs images until the user uploads their own.  
 
 Time spent: **10** hours spent in total
 
@@ -10,19 +10,15 @@ Time spent: **10** hours spent in total
 
 The following **required** functionality is completed:
 
-- [✔] User can register a new account
-- [✔] User can log in with newly created account
-- [✔] App has a feed of posts when user logs in
-- [✔] User can upload a new post which takes in a picture from photo library and a caption	
+- [✔] User can launch camera to take photo instead of photo library
+- [✔] User session persists when application is closed and relaunched
+- [✔] Users are able to log out and return to sign in page
+- [✔] Users are NOT able to see other photos until they upload their own	
  
 The following **optional** features are implemented:
 
-- [ ] Users can pull to refresh their feed and see a loading indicator
-- [✔] Users can infinite-scroll in their feed to see past the 10 most recent photos
-- [ ] Users can see location and time of photo upload in the feed	
-- [✔] User is able to logout
-- [✔] User stays logged in when app is closed and open again	
-
+- [ ] User receive notifcation when it is time to post
+- [ ] Users can make comments and view comments in posts	
 
 The following **additional** features are implemented:
 
@@ -30,25 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-
-https://github.com/arufi004/codepath-BeRealApp/assets/114187227/b77536ff-7710-4ef0-a819-17aab9fc83e4
-
-
-
-https://github.com/arufi004/codepath-BeRealApp/assets/114187227/f38da080-ee7d-4771-8ed7-4b5a10249140
-
-
-
-
-https://github.com/arufi004/codepath-BeRealApp/assets/114187227/95e33a30-e28a-45a8-9c25-bd6bb4d16279
-
-
-
-https://github.com/arufi004/codepath-BeRealApp/assets/114187227/40b61748-4aca-48cb-9043-04d3c32df9ea
-
-
-
-https://github.com/arufi004/codepath-BeRealApp/assets/114187227/f260d541-730b-45e4-acf3-42d927617005
+https://github.com/arufi004/codepath-BeRealApp/assets/114187227/6128f472-cafa-451e-a6d2-bf8243158823
 
 
 ## Notes
